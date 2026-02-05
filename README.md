@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <Your Name> 👋</h1>
+<h1 align="center">Hi there, I'm shin2225 <Your Name> 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Physics-Major-blueviolet?style=for-the-badge&logo=atom&logoColor=white" alt="Physics Major">
