@@ -21,7 +21,7 @@
 I am a **Physics Major** student passionate about **Machine Learning** and Data Science.  
 I enjoy applying mathematical concepts and physical intuition to solve data-driven problems.
 
-- 🔭 I’m currently working on **Deep Learning / Computer Vision / NLP** (←Choose one)
+- 🔭 I’m currently working on **Deep Learning**
 - 🌱 I’m currently learning **Quantum Computing / Reinforcement Learning**
 - 🧠 My background: **Computational Physics & Statistical Mechanics**
 - 📫 How to reach me: **<your-email@example.com>**
@@ -34,8 +34,8 @@ I enjoy applying mathematical concepts and physical intuition to solve data-driv
 物理学で培った数理的な背景を活かし、モデルの数式理解やアルゴリズムの実装に取り組んでいます。
 
 - **専門分野:** 機械学習、データ解析、計算物理
-- **現在の活動:** 論文の実装、Kaggleへの参加、物理シミュレーション
-- **興味:** 物理法則とニューラルネットワークの融合（Physics-informed MLなど）
+- **現在の活動:** 物理シミュレーション
+- **興味:** 量子情報
 
 ---
 
