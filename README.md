@@ -60,6 +60,6 @@ I enjoy applying mathematical concepts and physical intuition to solve data-driv
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shin2225&show_icons=true&count_private=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin2225&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
