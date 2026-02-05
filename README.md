@@ -43,7 +43,6 @@ I enjoy applying mathematical concepts and physical intuition to solve data-driv
 
 **Languages** <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white" />
 
 **ML & Data Science Libraries** <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
