@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Physics-Major-blueviolet?style=for-the-badge&logo=atom&logoColor=white" alt="Physics Major">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Focus-Tensor%20Networks-008080?style=for-the-badge&logo=matrix&logoColor=white" alt="Tensor Networks">
 </p>
 
 <p align="center">
