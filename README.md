@@ -30,7 +30,7 @@ I enjoy applying mathematical concepts and physical intuition to solve data-driv
 
 ## 🇯🇵 自己紹介
 
-**物理学科**に所属し、主に**機械学習（Tensor Network）**の研究・開発を行っています。
+**物理学科**に所属し、主に**テンソルネットワーク（Tensor Network）**の研究・開発を行っています。
 物理学で培った数理的な背景を活かし、モデルの数式理解やアルゴリズムの実装に取り組んでいます。
 
 - **専門分野:** 計算物理
